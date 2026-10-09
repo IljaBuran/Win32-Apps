@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TaskbarDimmer/TaskbarDimmer.vcxproj" Id="612a1a8c-16e3-4a40-9df5-bf655e1af5c2" />
+</Solution>
